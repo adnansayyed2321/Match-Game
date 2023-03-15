@@ -1,0 +1,14 @@
+.item-per {
+  color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-size: 25px;
+}
+.tag-name-button {
+  background-color: transparent;
+  border-width: 0px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 25px;
+}
